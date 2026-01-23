@@ -1,1 +1,6 @@
 *.csv
+__pycache__/
+*.pyc
+captcha-images/
+char-images-31528476/
+labels.pkl
