@@ -4,3 +4,4 @@ __pycache__/
 captcha-images/
 char-images-31528476/
 labels.pkl
+*.png
